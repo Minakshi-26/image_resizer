@@ -18,29 +18,18 @@ It is built using **Python and Pillow (PIL)**, making image processing easy and 
 
 ## Setup Instructions
 1. Clone the repository:
-   ```bash
    git clone https://github.com/username/image_resizer.git
-````
-
 2. Navigate to the project folder:
-
-   ```bash
    cd image_resizer
-   ```
 3. Create a virtual environment (optional but recommended):
-
-   ```bash
    python -m venv venv
    venv\Scripts\activate  
    source venv/bin/activate  
 4. Install required libraries:
-
    pip install Pillow
-
 5. Place images you want to resize in the `images/` folder.
 
 ## Run Instructions
-
 python image_resizer.py
 
 
